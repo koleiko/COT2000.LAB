@@ -1,2 +1,2 @@
-# COT2000.LAB
-Keep COTLAB codes
+This repo contains lab 4 and lab 5 code.
+
